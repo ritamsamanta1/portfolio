@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Typing Animation
     const typingTextElement = document.getElementById('typing-text');
-    const words = ["Data Analyst", "Coder", "ML Enthusiast", "Frontend Web Developer"];
+    const words = ["Full stack Developer","ML Enthusiast","Data Analyst", "Coder"];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
